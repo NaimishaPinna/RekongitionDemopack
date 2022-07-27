@@ -5,5 +5,5 @@ Amazon Rekognition offers pre-trained and customizable computer vision (CV) capa
 Rekognition Demo Pack has the following open-source code embedded 
 
 1. https://github.com/aws-samples/amazon-rekognition-custom-labels-demo
-2. https://github.com/aws-samples/amazon-rekognition-ppe
+2. https://github.com/aws-samples/amazon-rekognition-custom-labels-batch-processing
 
